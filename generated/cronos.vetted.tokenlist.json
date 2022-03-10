@@ -51,6 +51,62 @@
       "symbol": "D3USD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x9e23cac8b509603e0a3aec3a5597cee86c911c87.svg"
+    },
+    {
+      "address": "0x38b7ae0899e636d5aa2f650B1da043BCcfB36cA2",
+      "chainId": 97,
+      "name": "WCRO",
+      "symbol": "WCRO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23.png"
+    },
+    {
+      "address": "0x50987749bd898C559b4093468B7ca86A6137061f",
+      "chainId": 97,
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x66e428c3f67a68878562e79a0234c1f83c208770.png"
+    },
+    {
+      "address": "0xE7C82D08Af5EE16a7Bd790Db2b6848e0932Ce587",
+      "chainId": 97,
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0xc21223249ca28397b4b6541dffaecc539bff0c59.png"
+    },
+    {
+      "address": "0x315d3142abC4273d9EcBb74e9dE3AB660E254083",
+      "chainId": 97,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0xf2001b145b43032aaf5ee2884e456ccd805f677d.png"
+    },
+    {
+      "address": "0x315d3142abC4273d9EcBb74e9dE3AB660E254083",
+      "chainId": 97,
+      "name": "DARK",
+      "symbol": "DARK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x9e23cac8b509603e0a3aec3a5597cee86c911c87.svg"
+    },
+    {
+      "address": "0xE6991777393d7dAAE8e4d066A0f81b120B4924F4",
+      "chainId": 97,
+      "name": "DUSD",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x9e23cac8b509603e0a3aec3a5597cee86c911c87.svg"
+    },
+    {
+      "address": "0x0321b6A18c1846bFCF04019bB240d65DFb8DEE48",
+      "chainId": 97,
+      "name": "NESS",
+      "symbol": "NESS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x9e23cac8b509603e0a3aec3a5597cee86c911c87.svg"
     }
   ]
 }
