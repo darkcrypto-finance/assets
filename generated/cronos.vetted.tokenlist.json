@@ -122,7 +122,7 @@
       "name": "DUSD",
       "symbol": "DUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x9e23cac8b509603e0a3aec3a5597cee86c911c87.svg"
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x83b2ac8642ae46fc2823bc959ffeb3c1742c48b5.png"
     },
     {
       "address": "0x0321b6A18c1846bFCF04019bB240d65DFb8DEE48",
@@ -130,7 +130,7 @@
       "name": "NESS",
       "symbol": "NESS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x9e23cac8b509603e0a3aec3a5597cee86c911c87.svg"
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0xe727240728c1a5f95437b8b50afdd0ea4ae5f0c8.png"
     }
   ]
 }
