@@ -13,6 +13,14 @@
   },
   "tokens": [
     {
+      "address": "0xe727240728c1a5f95437b8b50afdd0ea4ae5f0c8",
+      "chainId": 25,
+      "name": "NESS",
+      "symbol": "NESS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0xe727240728c1a5f95437b8b50afdd0ea4ae5f0c8.png"
+    },
+    {
       "address": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
       "chainId": 25,
       "name": "WCRO",
