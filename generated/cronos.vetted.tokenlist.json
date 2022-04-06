@@ -47,8 +47,8 @@
     {
       "address": "0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c",
       "chainId": 25,
-      "name": "SKY",
-      "symbol": "DarkCrypto Share",
+      "name": "DarkCrypto Share",
+      "symbol": "SKY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c.png"
     },
