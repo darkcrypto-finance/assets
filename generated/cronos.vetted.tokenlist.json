@@ -13,6 +13,14 @@
   },
   "tokens": [
     {
+      "address": "0x1eCAF6a3551E5822F142c9689D8F36a9B5F68217",
+      "chainId": 25,
+      "name": "ESC",
+      "symbol": "ESC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0x1eCAF6a3551E5822F142c9689D8F36a9B5F68217.png"
+    },
+    {
       "address": "0xe727240728c1a5f95437b8b50afdd0ea4ae5f0c8",
       "chainId": 25,
       "name": "NESS",
