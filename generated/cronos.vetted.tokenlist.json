@@ -13,6 +13,14 @@
   },
   "tokens": [
     {
+      "address": "0xFa202a63234A7089EDdbFEee83c378ba248f0e9a",
+      "chainId": 25,
+      "name": "DCF",
+      "symbol": "DCF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/darkcrypto-finance/assets/refactor-for-multichain/assets/0xfa202a63234a7089eddbfeee83c378ba248f0e9a.png"
+    },
+    {
       "address": "0x1eCAF6a3551E5822F142c9689D8F36a9B5F68217",
       "chainId": 25,
       "name": "ESC",
